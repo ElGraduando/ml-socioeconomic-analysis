@@ -1,9 +1,9 @@
 # Hypertension Risk Prediction using Machine Learning
 
-## 📊 Project Overview
+## Project Overview
 This project develops machine learning models to predict the risk of hypertension based on clinical, demographic, and lifestyle data. The goal is to support early detection and enable data-driven decision-making in preventive healthcare.
 
-## 🎯 Objectives
+## Objectives
 - Identify key factors associated with hypertension risk
 - Build predictive classification models
 - Evaluate model performance and reliability
@@ -39,4 +39,4 @@ The models identified relevant variables influencing hypertension risk and demon
 - `data/`: datasets (if included)
 
 ## Author
-Andres Rico
+Andres Rico Quintero
