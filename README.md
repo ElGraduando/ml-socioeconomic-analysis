@@ -36,7 +36,7 @@ The models identified relevant variables influencing hypertension risk and demon
 ## Repository Structure
 - `notebooks/`: exploratory analysis and modeling workflow
 - `src/`: modularized and reusable code
-- `data/`: datasets (if included)
+- `data/`: datasets
 
 ## Author
 Andres Rico Quintero
